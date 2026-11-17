@@ -1,0 +1,7 @@
+.env
+*.key
+*.pem
+id.json
+wallet.json
+node_modules/
+.DS_Store

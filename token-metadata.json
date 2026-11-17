@@ -1,0 +1,25 @@
+{
+  "name": "Afghanistan Coin",
+  "symbol": "AFG",
+  "description": "A community-led meme token concept inspired by Afghanistan. No profit or price appreciation is promised.",
+  "image": "REPLACE_WITH_PUBLIC_HTTPS_IMAGE_URL",
+  "external_url": "REPLACE_WITH_PUBLIC_WEBSITE_URL",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "SPL"
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": "1,000,000,000"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "6"
+    }
+  ]
+}

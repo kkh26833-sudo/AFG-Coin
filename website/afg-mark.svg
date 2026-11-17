@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">AFG Coin geometric mark</title><desc id="desc">A geometric gold AFG monogram inside a circuit-inspired circular emblem.</desc>
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0b8"/><stop offset=".42" stop-color="#d8ad55"/><stop offset="1" stop-color="#80551b"/></linearGradient>
+ <radialGradient id="b"><stop stop-color="#20232b"/><stop offset="1" stop-color="#07090d"/></radialGradient>
+</defs>
+<circle cx="256" cy="256" r="242" fill="url(#b)" stroke="url(#g)" stroke-width="12"/>
+<circle cx="256" cy="256" r="218" fill="none" stroke="#9b742e" stroke-width="2" stroke-dasharray="4 10"/>
+<g fill="none" stroke="url(#g)" stroke-width="7" stroke-linecap="round">
+ <path d="M80 160h52l24-24h46M432 160h-52l-24-24h-46M80 352h52l24 24h46M432 352h-52l-24 24h-46"/>
+ <path d="M256 70v44m0 284v44M70 256h44m284 0h44"/>
+</g>
+<path d="M139 322 213 174h36l-74 148h-36Zm71-54h102l-17 33H193l17-33Zm49-94h112l-17 34H242l17-34Zm-15 148 30-58h39l-30 58h-39Z" fill="url(#g)"/>
+<path d="M166 384h180" stroke="#d8ad55" stroke-width="3" opacity=".8"/>
+<text x="256" y="420" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="8" fill="#f0d28a">AFG COIN</text>
+</svg>
